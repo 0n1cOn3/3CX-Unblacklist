@@ -5,6 +5,8 @@ simply launch the script, enter the IP address, and here set!
 ### 2023.04.14 - Continue to maintainance by 0n1cOn3
 https://github.com/0n1cOn3
 
+
+###### Tested with 3CX V18
 After all the back and forth with 3CX, I have not been able to find anything else as an alternative that meets my needs. Therefore I take over the maintenance of this script. 
 I have rewritten the whole thing from scratch and simplified and adapted some things.
 
