@@ -58,7 +58,7 @@ EOF
 }
 
 # MAIN PROGRAM
-echo "unblacklist v0.1b - March 2019"
+echo "3CX Unblacklist v1.0 - April 2023"
 read -p "Enter the IP address to remove from the blacklisted database: " ip_addr
 
 # Validate IP address
