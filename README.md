@@ -19,8 +19,8 @@
 Contributions are always welcome!
 
 ## Authors
-
-- [@fgadot](https://github.com/fgadot) | The creator of the script
+- [Jersey Shore Technologies](mailto://info@jstechnologies.net) | Creator
+- [@fgadot](https://github.com/fgadot) | Last Maintainer
 
 
 ## License
