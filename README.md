@@ -2,7 +2,7 @@
 3CX-Unblacklist allows you to delete a blacklisted IP address from 3CX running on 3CX Supported Distros, using the command line.
 simply launch the script, enter the IP address, and here set!
 
-### 2023.04.14 - Continue to maintain by 0n1cOn3
+### 2023.04.14 - Continue to maintainance by 0n1cOn3
 https://github.com/0n1cOn3
 
 After all the back and forth with 3CX, I have not been able to find anything else as an alternative that meets my needs. Therefore I take over the maintenance of this script. 
