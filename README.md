@@ -1,22 +1,34 @@
+
 # 3CX - Unblacklist
-3CX-Unblacklist allows you to delete a blacklisted IP address from 3CX running on 3CX Supported Distros, using the command line.
-simply launch the script, enter the IP address, and here set!
 
-### 2023.04.14 - Continue to maintainance by 0n1cOn3
-https://github.com/0n1cOn3
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) 
+
+[![Repo Size](https://img.shields.io/github/repo-size/0n1cOn3/3CX-Unblacklist)]()
+
+3CX-Unblacklist allows you to delete a blacklisted IP address from 3CX running on 3CX Supported Distros, using the command line. simply launch the script, enter the IP address, and here set!
+
+## Roadmap
+
+- Check IP address before trying to delete
+
+- Automatically restart the 3CX service if successfull
 
 
-###### Tested with 3CX V18
-After all the back and forth with 3CX, I have not been able to find anything else as an alternative that meets my needs. Therefore I take over the maintenance of this script. 
-I have rewritten the whole thing from scratch and simplified and adapted some things.
+## Contributing
 
-### 2023.03.01 - No more maintenance by fgadot
-https://github.com/fgadot/3CX-Unblacklist
+Contributions are always welcome!
 
-Due to the disaster the latest 3CX V18U6 has been, we decided to move our customers away from 3CX to FreePBX
-Therefore, this shell script won't be maintained anymore. Feel free to fork!
+## Authors
 
-### 2019.03.05 - V0.1b - First release
-###### Tested with 3CX V15, up to 3CX V16
-First release is made in bash shell. Very simple, but I needed something quick. 
-Down the road, we might switch to Python or Perl..
+- [@fgadot](https://github.com/fgadot) | The creator of the script
+
+
+## License
+
+[GPL 3.0](https://choosealicense.com/licenses/gpl-3.0//)
+
+
+## Support
+
+For support, [Telegram](https://t.me/OTCrewTG).
+
