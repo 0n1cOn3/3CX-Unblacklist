@@ -5,7 +5,7 @@
 
 [![Repo Size](https://img.shields.io/github/repo-size/0n1cOn3/3CX-Unblacklist)]()
 
-3CX-Unblacklist allows you to delete a blacklisted IP address from 3CX running on 3CX Supported Distros, using the command line. simply launch the script, enter the IP address, and here set!
+3CX-Unblacklist allows you to delete a blacklisted IP address from 3CX running on 3CX Supported Distros, using the command line. simply launch the script, enter the IP address, and your set!
 
 ## Roadmap
 
